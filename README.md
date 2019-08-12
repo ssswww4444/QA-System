@@ -1,2 +1,2 @@
 # QA-System
-Question answering system
+COMP90042 Project: Question Answering system
